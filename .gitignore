@@ -1,0 +1,5 @@
+# Ignore compiled output and editor files
+out/
+*.class
+*.log
+
