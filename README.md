@@ -239,5 +239,20 @@ The application includes robust error handling for:
 - Grade distribution analytics
 - Export to CSV/Excel
 
+## License
+
+This project is provided as-is for educational purposes.
+
+## Author
+
+Created as a Java programming exercise for student grade management.
+<<<<<<< HEAD
+=======
+## License
+
+This project is provided as-is for educational purposes.
+
+## Author
+>>>>>>> d92c5ca (Add source files, documentation, and scripts for Student Grade Management System)
 
 Created as a Java programming exercise for student grade management.
